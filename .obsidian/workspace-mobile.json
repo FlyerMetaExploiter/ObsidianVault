@@ -1,0 +1,181 @@
+{
+  "main": {
+    "id": "64466dc62f932170",
+    "type": "split",
+    "children": [
+      {
+        "id": "f3c097d352615e64",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "615276e282844cf3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian Notes Offline/Geography Optional Topics.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Geography Optional Topics"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "88e0c7068a628df5",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "7ec3bdd48867bb1d",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "byModifiedTime"
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "751d1407c8273903",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "3817a94f0e7f0b07",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "4770346d73f2dcd3",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "f2c68734827f1f2d",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "9a2fe9bcaf03bf69",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Obsidian Notes Offline/Geography Optional Topics.md",
+            "collapseAll": true,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": true,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "dbd3bc83dc2cf21a",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Notif-CSP-24-engl-140224.pdf",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "eb4b6ab4480f39a6",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Notif-CSP-24-engl-140224.pdf"
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      },
+      {
+        "id": "1c7abdaeeb622ee2",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      }
+    ],
+    "currentTab": 3
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "command-palette:Open command palette": false,
+      "switcher:Open quick switcher": false,
+      "daily-notes:Open today's daily note": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "graph:Open graph view": false,
+      "markdown-importer:Open format converter": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "615276e282844cf3",
+  "lastOpenFiles": [
+    "Obsidian Notes Offline/Geography Optional Topics.md",
+    "Optionals/Geography /2024/QP-CSM-24-GEOGRAPHY-PAPER-I-031024.pdf",
+    "Obsidian Notes Offline/Untitled.md",
+    "Notif-CSP-24-engl-140224.pdf",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "Obsidian Notes Offline/2024-12-11.md",
+    "Obsidian Notes Offline/Untitled.canvas",
+    "Untitled.md",
+    "Obsidian Notes Offline",
+    "2024-12-11.md",
+    "Prelims/Pre16.pdf",
+    "Compulsory Paper/Hindi/21-Hindi.pdf",
+    "Compulsory Paper/Hindi/22-HINDI.pdf",
+    "Compulsory Paper/Hindi/23-HINDI.pdf",
+    "Compulsory Paper/Hindi"
+  ]
+}

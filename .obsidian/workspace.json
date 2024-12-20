@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4c38dee80ce89554",
+        "id": "8930d2a07c5b85c8",
         "type": "tabs",
         "children": [
           {
-            "id": "094e01193237203f",
+            "id": "80ad3abedb8b5a2e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Obsidian Notes Offline/Git 2 Branches.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Git 2 Branches"
+              "title": "New tab"
             }
           }
         ]
@@ -73,7 +69,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -170,10 +167,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "094e01193237203f",
+  "active": "48bc8abe8ea390ac",
   "lastOpenFiles": [
-    "Obsidian Notes Offline/Git 2 Branches.md",
     "Excalidraw/Drawing 2024-12-16 00.36.06.excalidraw.md",
+    "Obsidian Notes Offline/Git 2 Branches.md",
     "Excalidraw",
     "NOTES",
     "README.md",

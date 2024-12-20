@@ -1,3 +1,8 @@
 {
-  "accentColor": "#457ff2"
+  "accentColor": "#2dbe60",
+  "enabledCssSnippets": [],
+  "theme": "obsidian",
+  "interfaceFontFamily": "Helvetica",
+  "nativeMenus": false,
+  "textFontFamily": "Arial"
 }

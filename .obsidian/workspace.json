@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "8930d2a07c5b85c8",
+        "id": "f48113d75cac8be5",
         "type": "tabs",
         "children": [
           {
-            "id": "80ad3abedb8b5a2e",
+            "id": "6a6eeffaa3866fff",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian Notes Offline/fgfgfhhhhhh.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "fgfgfhhhhhh"
             }
           }
         ]
@@ -69,8 +73,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -164,11 +167,14 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "flashcards-obsidian:Generate flashcards": false
     }
   },
-  "active": "48bc8abe8ea390ac",
+  "active": "6a6eeffaa3866fff",
   "lastOpenFiles": [
+    "Obsidian Notes Offline/fgfgfhhhhhh.md",
     "Excalidraw/Drawing 2024-12-16 00.36.06.excalidraw.md",
     "Obsidian Notes Offline/Git 2 Branches.md",
     "Excalidraw",

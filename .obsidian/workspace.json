@@ -13,10 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Optionals/Geography/2024/QP-CSM-24-GEOGRAPHY-PAPER-II-031024.pdf"
+                "file": "Notif-CSP-24-engl-140224.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "QP-CSM-24-GEOGRAPHY-PAPER-II-031024"
+              "title": "Notif-CSP-24-engl-140224"
             }
           }
         ]
@@ -75,8 +75,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "75b655393dc2ff66",
@@ -149,9 +148,19 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "331f21becf2fd410",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {},
+              "icon": "history",
+              "title": "History"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -172,8 +181,10 @@
       "audio-recorder:Start/stop recording": true
     }
   },
-  "active": "b9a1e88d9fac1dad",
+  "active": "2538b80967b0e5f3",
   "lastOpenFiles": [
+    "Untitled",
+    "Optionals/Geography/2024/QP-CSM-24-GEOGRAPHY-PAPER-II-031024.pdf",
     "Optionals/Geography/2024/QP-CSM-24-GEOGRAPHY-PAPER-I-031024.pdf",
     "Templates/Answer Structure.md",
     "Templates",
@@ -188,8 +199,6 @@
     "Prelims/Pre24.pdf",
     "Prelims/Pre23.pdf",
     "Prelims/Pre21.pdf",
-    "Prelims/Pre20.pdf",
-    "Prelims/Pre19.pdf",
     "Obsidian Notes Offline/Geography Optional Topics.md",
     "Obsidian Notes Offline/Open ai Text to diagram.md",
     "Obsidian Notes Offline/Obsidian/Important Git Obsidian Commands.md",

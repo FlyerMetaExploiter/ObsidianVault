@@ -4,22 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "64f38dda958ad763",
+        "id": "891caf8fd7868c6e",
         "type": "tabs",
         "children": [
           {
-            "id": "b9a1e88d9fac1dad",
+            "id": "96ab4beae72e3917",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Notif-CSP-24-engl-140224.pdf"
+                "file": "Obsidian Notes Offline/Geography Optional Topics.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Notif-CSP-24-engl-140224"
+              "icon": "lucide-file",
+              "title": "Geography Optional Topics"
+            }
+          },
+          {
+            "id": "2dcb52ffd8727216",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Optionals Notes/Guidelines And data points.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Guidelines And data points"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -181,9 +198,20 @@
       "audio-recorder:Start/stop recording": true
     }
   },
-  "active": "2538b80967b0e5f3",
+  "active": "2dcb52ffd8727216",
   "lastOpenFiles": [
-    "Untitled",
+    "Obsidian Notes Offline/Pasted image 20241223002925.png",
+    "Obsidian Notes Offline/Pasted image 20241223002910.png",
+    "Obsidian Notes Offline/Pasted image 20241223002855.png",
+    "Obsidian Notes Offline/Pasted image 20241223002843.png",
+    "Optionals Notes/UPSC Optional Marks Trends With Rank.md",
+    "Optionals Notes/Guidelines And data points.md",
+    "Obsidian Notes Offline/Pasted image 20241223002559.png",
+    "Obsidian Notes Offline/Geography Optional Topics.md",
+    "Optionals Notes",
+    "Obsidian Notes Offline/Git 2 Branches.md",
+    "Notif-CSP-24-engl-140224.pdf",
+    "Untitled 1",
     "Optionals/Geography/2024/QP-CSM-24-GEOGRAPHY-PAPER-II-031024.pdf",
     "Optionals/Geography/2024/QP-CSM-24-GEOGRAPHY-PAPER-I-031024.pdf",
     "Templates/Answer Structure.md",
@@ -191,15 +219,10 @@
     "New folder",
     "Obsidian Notes Offline/fgfgfhhhhhh.md",
     "Excalidraw/Drawing 2024-12-16 00.36.06.excalidraw.md",
-    "Obsidian Notes Offline/Git 2 Branches.md",
     "Excalidraw",
     "NOTES",
     "README.md",
     "Prelims/pre22.pdf",
-    "Prelims/Pre24.pdf",
-    "Prelims/Pre23.pdf",
-    "Prelims/Pre21.pdf",
-    "Obsidian Notes Offline/Geography Optional Topics.md",
     "Obsidian Notes Offline/Open ai Text to diagram.md",
     "Obsidian Notes Offline/Obsidian/Important Git Obsidian Commands.md",
     "Excalidraw/Drawing 2024-12-15 21.26.15.excalidraw.md",

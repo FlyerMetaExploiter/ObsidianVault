@@ -4,17 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "f48113d75cac8be5",
+        "id": "64f38dda958ad763",
         "type": "tabs",
         "children": [
           {
-            "id": "6a6eeffaa3866fff",
+            "id": "b9a1e88d9fac1dad",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "pdf",
+              "state": {
+                "file": "Optionals/Geography/2024/QP-CSM-24-GEOGRAPHY-PAPER-II-031024.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "QP-CSM-24-GEOGRAPHY-PAPER-II-031024"
             }
           }
         ]
@@ -73,7 +75,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "75b655393dc2ff66",
@@ -152,24 +155,29 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "audio-recorder:Start/stop recording": false,
+      "daily-notes:Open today's daily note": false,
+      "command-palette:Open command palette": false,
+      "templates:Insert template": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "flashcards-obsidian:Generate flashcards": false
+      "flashcards-obsidian:Generate flashcards": false,
+      "audio-recorder:Start/stop recording": true
     }
   },
-  "active": "6a6eeffaa3866fff",
+  "active": "b9a1e88d9fac1dad",
   "lastOpenFiles": [
+    "Optionals/Geography/2024/QP-CSM-24-GEOGRAPHY-PAPER-I-031024.pdf",
+    "Templates/Answer Structure.md",
+    "Templates",
+    "New folder",
     "Obsidian Notes Offline/fgfgfhhhhhh.md",
     "Excalidraw/Drawing 2024-12-16 00.36.06.excalidraw.md",
     "Obsidian Notes Offline/Git 2 Branches.md",
@@ -182,8 +190,6 @@
     "Prelims/Pre21.pdf",
     "Prelims/Pre20.pdf",
     "Prelims/Pre19.pdf",
-    "Prelims/Pre18.pdf",
-    "Prelims/Pre17.pdf",
     "Obsidian Notes Offline/Geography Optional Topics.md",
     "Obsidian Notes Offline/Open ai Text to diagram.md",
     "Obsidian Notes Offline/Obsidian/Important Git Obsidian Commands.md",

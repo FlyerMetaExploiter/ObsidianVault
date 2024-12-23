@@ -1,2 +1,8 @@
+<<<<<<< HEAD
+.obsidian/
+*git
+.gitignore
+=======
 .obsidian
 *.git
+>>>>>>> 32331bbe47cf4f2055aa68cdfaab8d6f837e5259

@@ -18,7 +18,7 @@
 
 | Unit   | Topics                                                                                                                                                                                                                                     |
 | ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Unit 1 | Public Administration: meaning and definition, nature, scope. Public Administration and Private Administration. Method of Studies. New Public Administration. Comparative Public Administration.                                           |
+| Unit 1 | Public Administration: meaning and definition, nature, scope. Public Administration and Private Administration. Method of Studies. New Public Administration. Comparative Public Administration.<br><br><br><br><br><br>                   |
 | Unit 2 | Principles of Organisation: Hierarchy, Span of Control, Unity of Command, Delegation, Chief Executive. Line and Staff Agencies. Departmental Organisation. Public Corporation. Personnel Administration: Recruitment, Promotion, Training. |
 | Unit 3 | Development Administration: Nature, Issues, Characteristics. Riggs Model. Public participation in Administration. Good Governance and e-Governance. Union Public Service Commission.                                                       |
 | Unit 4 | Financial Administration: Principles of Budget, Budget procedure in India. Administrative reforms in India. Executive, Legislative, Judicial and Public Control on Administration.                                                         |

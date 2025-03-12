@@ -81,8 +81,13 @@ There were several stages of labour and trade union movements in British India.
 #### 1.First Stage (1875-1918)
 The start of labour and trade union movements in British India can be traced back to the start of cotton mills in 1850s
 commissions and committees.
-##### (i)The First Factory Act And Commission 
 
+
+
+### 11. Labour  Acts and Committees 
+
+##### (i)The First Factory Act (1881) And Commission 
+              
 In 1875, the first Factory Commission was formed in Bombay to address the problems in factories. To tackle these issues, the first Factory Act was passed in 1881. Here are the main rules of the Act:
 
 - No child under the age of seven could be employed.
@@ -95,7 +100,7 @@ In 1875, the first Factory Commission was formed in Bombay to address the proble
   In 1884, a new Factory Commission was created, and Mr Lokhande organised a meeting for workers in Bombay. They prepared a letter to give to the Factory Commission. This marked the beginning of labour and trade union movements in British India. In the letter, they asked for several things, including a day off every week, a short break during work, compensation for any injuries, payment of wages on the 15th of each month, and a limit on working hours from 6 AM to 6 PM. However, the second Factory Act in 1891, based on the recommendations of the second Factory Commission, was disappointing. It only made a few changes, like giving women and children a weekly holiday and fixing their working hours, but men's working hours remained unregulated.
 
 ---
-#### Whitley Commission (1929–1931)
+#### 12.Whitley Commission (1929–1931)
 
 The Whitley Commission on Labour, or more precisely, the Royal Commission on Labour, was established in 1929 under the chairmanship of John Henry Whitley. The commission, which issued its findings in 1931, had six Indians: Srinivas S. Sastri, Ibrahim Rahimtoola, Kabeer-ud-Din Ahmed, G. D. Birla, N. M. Joshi, and D. Chaman Lall. Its purpose was to investigate the current working conditions in India's industrial enterprises and plantations.
 

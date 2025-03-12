@@ -60,17 +60,50 @@ The condition of the labour class in British India was highly exploitative, mark
    - **Unemployment**: High unemployment due to deindustrialization under British policies.
    - **Migration**: Rural workers migrated to cities for work, leading to urban slums.
    - **No Social Security**: No pensions, healthcare, or job security for workers.
-   
-
+---
+### **8.Indentured  Labour**:
+- 
+    - Indentured laborers from South Asia were recruited to work in plantations in countries like the Caribbean, with promises of work and wages that were often not fulfilled. 
+    - Living conditions were very poor. 
+    - Many laborers found themselves unable to return home and ended up working much longer than their contracted period.
 ---
 
-   - ### **8.Peasant Movements**:
+   - ### **9.Peasant Movements**:
     
      **Indigo Revolt (1859-60)**: Peasants in Bengal revolted against forced indigo cultivation.
      **Deccan Riots (1875)**: Peasants in Maharashtra protested against moneylenders.
      **Champaran Satyagraha (1917)**: Led by Gandhi, it protested against exploitative indigo plantation systems.
 
+
 ---
+###  10.Labour  Movement In India :
+There were several stages of labour and trade union movements in British India.
+#### 1.First Stage (1875-1918)
+The start of labour and trade union movements in British India can be traced back to the start of cotton mills in 1850s
+commissions and committees.
+##### (i)The First Factory Act And Commission 
+
+In 1875, the first Factory Commission was formed in Bombay to address the problems in factories. To tackle these issues, the first Factory Act was passed in 1881. Here are the main rules of the Act:
+
+- No child under the age of seven could be employed.
+- Children aged seven to twelve could only work for nine hours a day.
+- Children were not allowed to operate dangerous machinery or work in two different factories on the same day.
+- Workers had four days off each month and a one-hour break during their working hours.
+- While there were no restrictions on adult workers, measures were put in place to protect them from dangerous machinery and to report any accidents.
+- The government-appointed supervisors ensure the effective implementation of the law
+ ##### (ii) Second Factory Commission And Act :
+  In 1884, a new Factory Commission was created, and Mr Lokhande organised a meeting for workers in Bombay. They prepared a letter to give to the Factory Commission. This marked the beginning of labour and trade union movements in British India. In the letter, they asked for several things, including a day off every week, a short break during work, compensation for any injuries, payment of wages on the 15th of each month, and a limit on working hours from 6 AM to 6 PM. However, the second Factory Act in 1891, based on the recommendations of the second Factory Commission, was disappointing. It only made a few changes, like giving women and children a weekly holiday and fixing their working hours, but men's working hours remained unregulated.
+
+---
+#### Whitley Commission (1929–1931)
+
+The Whitley Commission on Labour, or more precisely, the Royal Commission on Labour, was established in 1929 under the chairmanship of John Henry Whitley. The commission, which issued its findings in 1931, had six Indians: Srinivas S. Sastri, Ibrahim Rahimtoola, Kabeer-ud-Din Ahmed, G. D. Birla, N. M. Joshi, and D. Chaman Lall. Its purpose was to investigate the current working conditions in India's industrial enterprises and plantations.
+
+The following suggestions were made by the commission:
+
+- Standardised salaries should be implemented in Bombay cotton mills, and early efforts should be taken in the jute industry, both for time and piece workers.
+- Three solutions were proposed to improve ties between management and employees: the foundation of stable trade unions, the employment of labour officials, and the formation of works committees. It also advocated for the establishment of conciliation officers to mediate solutions between parties in the early phases of a dispute.
+- The commissions also dealt with transport services, public works contracts, fines and deductions, compensation, recruitment of labour for tea gardens in Assam, mining and railways, labour legislation, and working conditions in industries and unregistered factories. It had a huge impact on labour and trade union movements in British India.
 
 ### **Conclusion**
 

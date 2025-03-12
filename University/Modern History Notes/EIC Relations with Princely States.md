@@ -1,3 +1,5 @@
+<span style="background:#fdbfff">Note : Refer To Spectrum For via Headings .(time Consuming , due to Part by Part Inspection )</span>
+
 The **East India Company (EIC)** was a British trading company established in 1600, which eventually became a powerful political and military force in India. Its relationship with the **Princely States** (semi-autonomous kingdoms under British suzerainty) was complex and evolved over time. Below are detailed notes on the EIC and its relations with the Princely States:
 
 ---

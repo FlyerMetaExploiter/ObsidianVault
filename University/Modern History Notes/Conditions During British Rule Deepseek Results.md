@@ -1,3 +1,4 @@
+<span style="background:#b1ffff">Note : Standalone Source </span>
 ### **Condition of Labour During British Rule**
 
 1. **Exploitation in Industries**:

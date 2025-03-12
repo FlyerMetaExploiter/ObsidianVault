@@ -1,8 +1,8 @@
 
 
-Note : Do Include Villagers Community Names such As "Bhaichara" , "Mahal " .(Refer to: https://www.youtube.com/watch?v=4r1s4_qEBP8)
-, Spectrum if Required .
-Do Include Overall Impact Of British Land Revenue Policies Heading In Spectrum . 
+<span style="background:#d4b108">Note : Do Include Villagers Community Names such As "Bhaichara" , "Mahal " .(Refer to: https://www.youtube.com/watch?v=4r1s4_qEBP8)</span>
+<span style="background:#d4b108">, Spectrum if Required .</span>
+<span style="background:#d4b108">Do Include Overall Impact Of British Land Revenue Policies Heading In Spectrum . </span>
 
 The **Mahalwari System** was a revenue collection system introduced during British rule in India. It was implemented mainly in **North-Western India** as a modification of the **Permanent Settlement** and **Ryotwari System**.
 

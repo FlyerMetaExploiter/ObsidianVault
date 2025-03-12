@@ -1,3 +1,4 @@
+<span style="background:#40a9ff">Note : Merge With Deepseek Results Note In Obsidian .</span>
 ### **Condition of Labour Class during British Rule**
 
 The condition of the labour class in British India was highly exploitative, marked by poor wages, hazardous working conditions, and minimal legal protection. The introduction of modern industries led to a shift from agrarian occupations, but this transformation largely benefited the British rulers and Indian elites while worsening the plight of workers.

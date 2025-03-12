@@ -1,7 +1,9 @@
-### <span style="background:#d2cbff">Note :</span>
+<span style="background:#d2cbff">Note :
 Do consider Spectrum (238-231 ) for more Insights into 
 Audible : https://youtu.be/LVTjuDF4rhA?feature=shared
-Part 2 :https://youtu.be/22usw2vzZBE?feature=shared
+Part 2 :https://youtu.be/22usw2vzZBE?feature=shared </span>
+
+
 #### 1. **Introduction to Arya Samaj**
    - **Founder**: Swami Dayanand Saraswati (1824–1883).
    - **Year of Establishment**: 1875 in Bombay (now Mumbai).

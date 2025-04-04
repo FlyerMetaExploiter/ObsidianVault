@@ -146,4 +146,28 @@ The development of the press during British rule was marked by a constant strugg
 
 The development of the press during British rule played a crucial role in **shaping Indian nationalism, mobilizing mass movements, and challenging colonial oppression**. Despite strict censorship, **Indian journalists and freedom fighters used the press as a weapon to ignite the spirit of independence**, leaving a lasting impact on India’s democratic evolution.
 
-Would you like any modifications or additional details?
+---
+
+
+
+🔴 **British Press Censorship Flowchart**  
+
+[Start] → **1799: Press Act** (Temporary wartime censorship)  
+          │  
+          ▼  
+**1823: Licensing Regulations** (Mandatory govt approval)  
+          │  
+          ▼  
+**1835: Metcalfe Act** (Brief press freedom)  
+          │  
+          ▼  
+**1857: Gagging Act** (Post-Revolt crackdown)  
+          │  
+          ▼  
+**1878: Vernacular Press Act** (Targeted Indian newspapers)  
+          │  
+          ▼  
+**1910: Indian Press Act** (Allowed confiscation without trial)  
+          │  
+          ▼  
+**1931: Press Emergency Act** (Pre-censorship during Gandhi's movements)  

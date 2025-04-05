@@ -35,12 +35,7 @@
 
 ### **e) Female Infanticide
 ### f) Influence Of Patriarchal Norms
-Despite lhe introduction of legal reforms, patriarchal norms and practices persisted within
-both the British legal systetn and Indian society. The laws themselves were Often influenced
-by colomal biases and reinforced gcndcr inequalities. Thc enforcement oflaws and access to
-justice remained limited for many women, especially those from marginalized communities
-who faced compounded forms Of discrimination based on factors such as caste. class. and
-ethnicity
+Despite the introduction of legal reforms, patriarchal norms and practices persisted within both the British legal system and Indian society. The laws themselves were Often influenced by colomal biases and reinforced gender inequalities. The enforcement of laws and access to justice remained limited for many women, especially those from marginalized communities who faced compounded forms Of discrimination based on factors such as caste. class. and ethnicity .
 https://www.youtube.com/watch?v=X5qX5P_Clkk
 
 

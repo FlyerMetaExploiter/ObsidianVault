@@ -8,7 +8,7 @@ The **Permanent Settlement** was introduced by **Lord Cornwallis** in **1793** i
 Declared Zamindars as the owners of the Lands   : 
 Revenue Collected
 1/11 To Zamindars 
-and 1/11 To Britishers 
+and 10/11 To Britishers 
 
 ---
 

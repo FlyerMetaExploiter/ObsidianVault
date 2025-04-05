@@ -14,8 +14,6 @@ and 1/11 To Britishers
 
 ## **Key Features of the Permanent Settlement**
 
-- **Region:** Madras, Bombay, and parts of Assam and Coorg.
-
 ### **1. Permanent Fixation of Revenue (Taxation System)**
 
 - The **land revenue was permanently fixed** and could **never be increased or decreased**.

@@ -65,15 +65,13 @@ Chhattisgarh, known as the _"Tribal Heart of India,"_ is home to over **42 sc
     
 - **Tribal Dishes:**
     
-    - **Chousela** – Rice flour pancakes.
-        
-    - **Bafauri** – Steamed lentil dumplings.
-        
     - **Red Ant Chutney** (_Chaprah_) – A spicy delicacy in Bastar.
         
     - **Mahua Liquor** – Traditional alcoholic drink from Mahua flowers.
         
-
+ Salfi : bastar Welcome  Drink 
+ Tadi : Baigas , Extracted from Palm (Tad Tree )
+ Page 
 ### **6. Religious Beliefs & Practices**
 
 - **Animism & Nature Worship** – Worship of trees, rivers, and stones.

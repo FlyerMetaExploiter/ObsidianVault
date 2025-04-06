@@ -70,3 +70,95 @@ The **East India Company (EIC)** was a British trading company established in 16
 - The Princely States played a significant role in India's political landscape until independence.
 
 ---
+## **1. Nature of British Relations with Princely States**
+
+### **A. Subsidiary Alliance (1798–1858)**
+
+- Introduced by **Lord Wellesley (1798–1805)**.
+    
+- Princely states had to:
+    
+    - Accept a **British resident** in their court.
+        
+    - Maintain **British troops** at their expense.
+        
+    - Not form alliances with other powers without British approval.
+        
+- **Example:** Hyderabad (1798), Awadh (1801).
+    
+
+### **B. Doctrine of Lapse (1848–1856)**
+
+- Introduced by **Lord Dalhousie**.
+    
+- If a ruler died without a **natural heir**, the state would **lapse** to the British.
+    
+- **Examples:** Satara (1848), Jhansi (1853), Nagpur (1854).
+    
+- Created resentment, contributing to the **1857 Revolt**.
+    
+
+### **C. Post-1857: Policy of Paramountcy**
+
+- After the revolt, the British shifted to **indirect rule**.
+    
+- Princely states were allowed internal autonomy but had to accept **British suzerainty**.
+    
+- The **Crown** took over from the East India Company (Queen’s Proclamation, 1858).
+    
+
+---
+
+## **2. British Control Mechanisms**
+
+### **A. Political Agents & Residents**
+
+- British officials were stationed in princely courts to **monitor** and **influence** rulers.
+    
+- Acted as a link between the princely state and the British government.
+    
+
+### **B. Economic Exploitation**
+
+- Princely states paid **tribute** to the British.
+    
+- Some states were forced to grant **land, resources, or trade monopolies** to the British.
+    
+
+### **C. Military Control**
+
+- Princely armies were **weakened**; British troops were stationed in key areas.
+    
+- States could not wage war or maintain large armies without British approval.
+    
+
+### **D. Divide and Rule**
+
+- British **played princes against each other** to prevent unity.
+    
+- Supported **loyal princes** with titles and privileges (e.g., Mysore, Gwalior).
+    
+
+---
+
+## **3. Princely States’ Response**
+
+### **A. Collaboration**
+
+- Many rulers (e.g., **Nizam of Hyderabad, Maharaja of Jammu & Kashmir**) remained loyal for **privileges and protection**.
+    
+
+### **B. Resistance**
+
+- Some rulers resisted British interference:
+    
+    - **Kittur Chennamma (1824)** – Fought against the Doctrine of Lapse.
+        
+    - **Rani Lakshmibai of Jhansi (1857)** – Rebelled during the 1857 Revolt.
+        
+
+### **C. Rise of Political Consciousness**
+
+- By the **early 20th century**, some princely states saw **demand for democracy** (e.g., Mysore, Baroda).
+    
+- **Chamber of Princes (1921)** was formed to represent princely states but had limited power.

@@ -1,18 +1,18 @@
 
-
+https://www.youtube.com/watch?v=MtcwWqao1po : Lecture for Clarity and Visual Representations .
 **1. Introduction & Basic Concepts**
 
 - **Overall Climate Type:** Chhattisgarh primarily experiences a **Subtropical Monsoonal Climate**.
     
-    - **Subtropical:** Due to its latitudinal location, falling largely within the subtropical zone (Up Ushna Katibandh), near the Tropic of Cancer.
+    - **Subtropical:** Due to its latitudinal location, falling largely within the subtropical zone (Tropical Deciduous ) near the Tropic of Cancer.
         
     - **Monsoonal:** The climate is heavily influenced and characterized by the seasonal reversal of winds (Monsoon).
         
 - **Key Definitions:**
     
-    - **Climate (Jalvayu):** The long-term average weather conditions of a region, typically assessed over a period of 30-35 years. Represents a stable pattern.
+    - **Climate :** The long-term average weather conditions of a region, typically assessed over a period of 30-35 years. Represents a stable pattern.
         
-    - **Season (Ritu):** Distinct periods within a year (e.g., lasting 3-4 months) characterized by specific, recurring weather conditions (temperature and rainfall patterns).
+    - **Season:** Distinct periods within a year (e.g., lasting 3-4 months) characterized by specific, recurring weather conditions (temperature and rainfall patterns).
         
     - **Weather (Mausam):** The short-term (day-to-day, even hour-to-hour) state of the atmosphere at a specific time and place, including temperature, rainfall, wind, humidity, etc. Weather is highly variable.
         

@@ -1,305 +1,306 @@
-Okay, here are structured notes based on the provided Hindi lecture transcript about the Geological Structure of Chhattisgarh:
 
-**Subject: Geological Structure of Chhattisgarh (छत्तीसगढ़ की भूगर्भिक संरचना)**
 
-**I. Introduction**
+**1. Introduction & Basic Concepts**
 
-- **Definition:** Geological structure refers to the nature (स्वरूप) and characteristics (प्रकृति) of rocks found on the surface (धरातलीय) and beneath the surface (धरातल के नीचे) within a specific region (like Chhattisgarh).
+- **Overall Climate Type:** Chhattisgarh primarily experiences a **Subtropical Monsoonal Climate**.
     
-- **Factors Determining Rock Properties:** A rock's nature and properties depend on its formation process (निर्माण की प्रक्रिया) and its age (आयु).
-    
-- **Chhattisgarh's Geological Context:**
-    
-    - Part of the **Gondwana Land** (ancient supercontinent fragment).
+    - **Subtropical:** Due to its latitudinal location, falling largely within the subtropical zone (Up Ushna Katibandh), near the Tropic of Cancer.
         
-    - Lies on the **Indian Plate**.
+    - **Monsoonal:** The climate is heavily influenced and characterized by the seasonal reversal of winds (Monsoon).
         
-    - Forms a part of the **Peninsular Plateau** (प्रायद्वीपीय पठार) of India, considered ancient and stable.
+- **Key Definitions:**
+    
+    - **Climate (Jalvayu):** The long-term average weather conditions of a region, typically assessed over a period of 30-35 years. Represents a stable pattern.
+        
+    - **Season (Ritu):** Distinct periods within a year (e.g., lasting 3-4 months) characterized by specific, recurring weather conditions (temperature and rainfall patterns).
+        
+    - **Weather (Mausam):** The short-term (day-to-day, even hour-to-hour) state of the atmosphere at a specific time and place, including temperature, rainfall, wind, humidity, etc. Weather is highly variable.
+        
+- **Fundamental Processes:**
+    
+    - **Air & Wind:** Air is stationary; wind is air in motion. Movement occurs due to pressure differences.
+        
+    - **Pressure Systems:** Driven by temperature.
+        
+        - **Hot Air:** Rises, expands, leading to **Low Pressure** (fewer air molecules in a given volume near the surface).
+            
+        - **Cold Air:** Sinks, contracts, leading to **High Pressure** (more air molecules packed into a given volume near the surface).
+            
+        - **Wind Flow:** Air always moves from areas of **High Pressure** to areas of **Low Pressure**.
+            
+    - **Rainfall Cycle:**
+        
+        1. **Evaporation:** Warm air rises, carrying water vapor from surfaces (rivers, lakes, vegetation).
+            
+        2. **Condensation:** As the moist air rises, it cools. Water vapor condenses around nuclei (dust particles) to form tiny water droplets or ice crystals, creating clouds.
+            
+        3. **Precipitation:** When these droplets/crystals become heavy enough, they fall back to Earth as rain, snow, or hail.
+            
+
+**2. Factors Affecting Chhattisgarh's Climate**
+
+- **Temperature (Taapmaan):** Primarily influenced by solar radiation (Sun's apparent movement, latitude) and local topography/vegetation. Drives pressure and wind systems.
+    
+- **Pressure (Daab):** Atmospheric pressure variations dictate wind patterns and intensity.
+    
+- **Wind (Pawan/Vayu):** Movement of air, distributing heat and moisture. Influenced by pressure gradients and global/regional wind belts (Easterlies play a role).
+    
+- **Moisture/Humidity (Aadrata):** Amount of water vapor in the air. Crucial for cloud formation and rainfall. Relative humidity is commonly measured.
+    
+- **Cloud Cover (Baadal):** Affects incoming solar radiation and outgoing terrestrial radiation, thus influencing temperature. Essential for precipitation.
+    
+- **Location & Latitude (Avasthiti/Akshansh):** Primarily in the subtropical zone, proximity to the Tropic of Cancer.
+    
+- **Vegetation (Vanaspati):** Forests moderate local temperatures (shade), increase humidity through transpiration, and can influence local rainfall patterns (especially convectional rain).
+    
+- **Continentality (Mahadwipiyata):** Being a landlocked state relatively far from the direct moderating influence of the sea leads to more significant temperature differences between summer and winter compared to coastal areas.
+    
+- **Altitude/Topography:** Higher elevations (e.g., Northern highlands - Sarguja division, Bastar plateau) generally experience lower temperatures. Hills and plateaus also influence wind flow and rainfall patterns (orographic effect).
+    
+- **Distance from the Sea:** While landlocked, the Bay of Bengal is close enough to be the primary source of monsoon moisture and influence weather systems (like cyclones).
+    
+
+**3. Seasons in Chhattisgarh & Their Characteristics**
+
+Chhattisgarh experiences three main seasons, along with transitional weather phenomena:
+
+**(A) Summer Season (Grishma Ritu)**
+
+- **Duration:** Approx. **16th February to 15th June**.
+    
+- **Characteristics:**
+    
+    - **Temperature:**
+        
+        - Starts increasing significantly from **March**.
+            
+        - **Hottest Month:** May (peak temperatures often between 20th-25th May).
+            
+        - Temperature Order: Feb < Mar < Apr < **May** > June (starts cooling due to rain).
+            
+        - **Hottest Areas:** Central plains, especially Raigarh, Sakti, **Janjgir-Champa** (often records the highest maximum temperatures), Bilaspur. Maximum day temperatures can reach 47-50°C; night temperatures remain high (~36°C) during peak summer.
+            
+        - High diurnal range of temperature (difference between max day and min night temperature).
+            
+    - **Pressure:**
+        
+        - Dominantly **Low Pressure** develops over the heated landmass.
+            
+        - The core of the low pressure lies over the central Mahanadi basin (Isobar around **996 millibars**).
+            
+        - Slightly higher pressure (relative low) over northern highlands (998-999 mb) and southern Dandakaranya plateau (999-1000 mb) due to altitude and forest cover.
+            
+    - **Wind:**
+        
+        - Winds flow **towards** the low-pressure center of Chhattisgarh from surrounding relatively higher-pressure areas (including Bay of Bengal).
+            
+        - Predominant direction of incoming wind: **East and South-East**.
+            
+        - **Loo:** Hot, dry, and strong winds blow during the daytime in late May/early June, primarily affecting the **central plains**. Less impact in forested/hilly regions.
+            
+    - **Moisture & Rainfall:**
+        
+        - Relative humidity is highest in the Mahanadi basin (50-52%) due to river evaporation, lower in other regions.
+            
+        - **Pre-Monsoon Rainfall:** Occurs occasionally (approx. 22 days mentioned). Primarily **convectional rainfall** (due to intense heating).
+            
+        - Highest summer (pre-monsoon) rainfall amount: Dandakaranya region, followed by Jashpur region, least in the Mahanadi plains.
+            
+        - **Thunderstorms (Andhi):** Occur frequently in late afternoons/evenings during May/early June, especially in central plains (river moisture) and Bastar (transpiration from forests). Associated with strong winds, lightning, and sometimes hail (Oley).
+            
+    - **Clouds:**
+        
+        - Skies are generally clear and blue during the early part of summer.
+            
+        - **Cumulus** and sometimes **Cumulonimbus** clouds develop rapidly in the late afternoons/evenings during May, leading to thunderstorms.
+            
+    - **Associated Phenomena:** Loo (May), Pre-monsoon Thunderstorms/Andhi (May/June), Hailstorms (May/June), Tropical Cyclones from Bay of Bengal (can influence weather in May).
         
 
-**II. Basic Rock Types (General Classification)**
+**(B) Rainy Season (Varsha Ritu) - Monsoon**
 
-- **Based on Formation Process:**
+- **Duration:** Approx. **16th June to 15th October**.
     
-    1. **Igneous Rocks (आग्नेय शैल):** Formed from the cooling and solidification of molten magma/lava. Considered the primary or parent rocks.
+- **Mechanism:** Arrival and establishment of the **South-West Monsoon**.
+    
+    - Caused by intense low pressure over NW India and the Tibetan plateau, pulling moist winds from the Indian Ocean.
         
-        - Examples: Granite (ग्रेनाइट - hard), Basalt (बेसाल्ट), Gabbro (गैब्रो - black), Diorite (डायराइट). Soapstone (सोप स्टोन) mentioned as a soft rock (though often metamorphic, context suggests basic rock type example). Quartzite (क्वार्ट्जाइट - milky white) also mentioned here, though typically metamorphic.
-            
-    2. **Sedimentary Rocks (अवसादी शैल / परतदार चट्टान):** Formed from the accumulation, compaction, and cementation of sediments (derived from weathering/erosion of pre-existing rocks, or organic matter). Often layered (परतदार).
+    - The northward shift of the Inter-Tropical Convergence Zone (ITCZ).
         
-        - Formation: Sediments transported by wind, water, etc., deposited, and hardened over time.
-            
-        - Examples: Limestone (चूना पत्थर), Coal (कोयला), Sandstone (बलुआ पत्थर), Shale, Gypsum (जिप्सम), Dolomite (डोलोमाइट).
-            
-        - Often contain Fossils (जीवाश्म).
-            
-    3. **Metamorphic Rocks (कायांतरित / रूपांतरित शैल):** Formed when existing Igneous or Sedimentary rocks are transformed by intense heat (उच्च ताप) and pressure (उच्च दाब) without melting.
+    - Deflection of South-East Trade Winds after crossing the equator (due to Coriolis force) becoming South-West Monsoon winds.
         
-        - Examples:
+    - Chhattisgarh receives rainfall from **both** major branches of the SW Monsoon:
+        
+        - **Bay of Bengal Branch:** Contributes the majority (**~90%**) of monsoon rainfall. Enters Chhattisgarh primarily from the **East and South-East**. Affects Eastern, Central, and Northern Chhattisgarh significantly. This is the dominant branch.
             
-            - Granite → Gneiss (नीस)
+        - **Arabian Sea Branch:** Contributes a smaller portion (**~10%**). Enters from the **West and South-West**. Primarily affects the western border districts (Maikal range area) and the southern plateau (Abujhmad).
+            
+- **Characteristics:**
+    
+    - **Temperature:** Conditions are **Hot and Humid** (Garm evam Aadra). Temperatures drop compared to peak summer but remain warm, coupled with very high humidity.
+        
+    - **Pressure:** Remains a **Low-Pressure** area, though slightly higher than peak summer (Isobar around **1005 millibars** through the center). This gradient maintains the inflow of moist winds.
+        
+    - **Wind:** Moist winds flow **into** Chhattisgarh from the Bay of Bengal (predominantly) and the Arabian Sea.
+        
+    - **Moisture & Rainfall:**
+        
+        - **Highest Humidity:** Very high relative humidity, often exceeding **75%**.
+            
+        - Accounts for **~90%** of Chhattisgarh's total annual rainfall.
+            
+        - **Average Annual Rainfall:** Approx. **1200-1225 mm** (or 120-125 cm).
+            
+        - **Average Rainy Season Rainfall:** Approx. **1300-1325 mm** (higher average focused only on these months).
+            
+        - **Rainfall Duration:** Approx. 70-75 rainy days on average during the season (highest number of rainy days in Bilaspur division).
+            
+        - **Highest Rainfall Regions:** Abujhmad region (considered Chhattisgarh's Cherrapunji, >187 cm), Jashpur region (especially eastern parts), Raigarh Basin.
+            
+        - **Lowest Rainfall Region:** Kawardha district and areas in the rain shadow of the Maikal Range.
+            
+        - **Entry of Monsoon:** Generally enters Bastar region first (around 10th June, sometimes earlier) and covers the state by mid-June.
+            
+    - **Clouds:** Skies are generally overcast with **Cumulonimbus** and **Nimbostratus** clouds being common. Rainfall often occurs in spells, frequently in the afternoon and evening, but can occur at any time.
+        
+
+**(C) Winter Season (Sheet Ritu)**
+
+- **Duration:** Approx. **16th October to 15th February**.
+    
+- **Mechanism:** Sun's apparent southward movement (Dakshinayan). Landmass cools down faster than the surrounding seas. High pressure develops over the northern/central Indian landmass.
+    
+- **Characteristics:**
+    
+    - **Temperature:**
+        
+        - Pleasant, cool, and generally dry weather.
+            
+        - Temperatures start decreasing from **October**.
+            
+        - **Coldest Month:** December. Peak cold period often from mid-December to mid-January.
+            
+        - **Average Winter Temperature:** Ranges around 22-26°C, but minimum temperatures can drop significantly.
+            
+        - **Coldest Places:** **Mainpat** (known as Shimla of Chhattisgarh, temps can drop below freezing, causing frost), **Jashpur** region (Coldest district overall), Pendra-Gorella-Marwahi region.
+            
+        - Northern Chhattisgarh (Sarguja division) is colder due to higher altitude and influence of cold winds from North India.
+            
+        - Bastar plateau is also cold due to altitude and dense forest cover retaining cool air.
+            
+    - **Pressure:**
+        
+        - Relatively **High Pressure** develops over Chhattisgarh compared to the surrounding seas (Isobar around **1016 millibars** through the center, 1020 mb in North, 1018 mb in South).
+            
+        - However, this pressure is lower than the intense high pressure over the Himalayas and North Indian plains.
+            
+    - **Wind:**
+        
+        - Winds generally flow **outwards** from the Chhattisgarh region towards lower pressure areas (like the sea).
+            
+        - **Northern parts** of Chhattisgarh are influenced by cold, dry winds blowing from the high-pressure areas of North India.
+            
+        - Winds are generally light compared to other seasons.
+            
+    - **Moisture & Rainfall:**
+        
+        - **Low Humidity:** Air is generally dry (Relative Humidity ~45-55%). Highest relative humidity in winter is found in the Dandakaranya region due to forest cover.
+            
+        - **Winter Rainfall:** Very little rainfall. What occurs is mainly due to:
+            
+            - **Western Disturbances (Pashua Vikshob):** Originating from the Mediterranean Sea, these systems travel eastwards and bring light showers, primarily in **late January or early February**. They mainly affect Northern Chhattisgarh, parts of the Raigarh basin, Mahasamund, Gariaband, and occasionally eastern Dandakaranya. Central Chhattisgarh is less affected.
                 
-            - Basalt → Schist (शिष्ट)
+            - **Retreating Monsoon Cyclones:** Cyclones forming in the Bay of Bengal during October-November can sometimes bring rainfall, especially to southern and eastern parts.
                 
-            - Clay/Shale → Slate (स्लेट)
-                
-            - Limestone → Marble (संगमरमर)
-                
-            - Sandstone → Quartzite (क्वार्ट्जाइट)
-                
-            - Coal → Diamond (हीरा) / Graphite (ग्रेफाइट)
-                
-- **Igneous Intrusive Features (Mentioned Briefly):** Formations of magma cooling beneath the surface:
-    
-    - **Laccolith (लैकोलिथ):** Dome-shaped intrusion.
+    - **Clouds:** Skies are predominantly **clear and blue**. Cloud cover increases temporarily during the passage of Western Disturbances.
         
-    - **Dyke (डाइक):** Vertical or near-vertical sheet intrusion cutting across layers.
+    - **Associated Phenomena:**
         
-    - **Sill (सिल):** Horizontal sheet intrusion parallel to layers.
-        
-    - **Lopolith (लेपोलिथ):** Saucer/basin-shaped intrusion.
-        
-    - **Phacolith (फैकोलिथ):** Lens-shaped intrusion in folded rock layers (wave-like).
-        
-    - **Batholith (बैथोलिथ):** Very large, irregular mass of cooled magma deep underground.
-        
-
-**III. Geological Classification & Chronology in Chhattisgarh**
-
-- **India:** Generally classified into 7 major rock groups chronologically.
-    
-- **Chhattisgarh:** Features 6 major rock groups.
-    
-- **Chronological Order (Oldest to Youngest) & Mnemonic:** (आधार कार्ड बिगाड़ दो - Aa-Dha-Ka-Vi-Go-D)
-    
-    1. **Archaean (आर्कियन)**
-        
-    2. **Dharwar (धारवाड़)**
-        
-    3. **Cuddapah (कड़प्पा)**
-        
-    4. **Vindhyan (विंध्यन)**
-        
-    5. **Gondwana (गोंडवाना)**
-        
-    6. **Deccan Trap (दक्कन ट्रैप)**
-        
-
-**IV. Detailed Description of Chhattisgarh's Rock Groups**
-
-1. **Archaean Group (आर्कियन शैल समूह)**
-    
-    - **Age:** Pre-Cambrian; Oldest rocks (>2.5 billion years).
-        
-    - **Formation:** Cooling and solidification of the Earth's initial molten crust. Basic/fundamental rocks.
-        
-    - **Characteristics:**
-        
-        - Most ancient ("Archaean" means सर्वाधिक प्राचीन).
+        - **Fog (Dhund):** Common in the early mornings, especially in highland areas (Mainpat, Jashpur, Pendra, Keshkal valley, Bailadila hills) and forested regions.
             
-        - Hard, crystalline rocks.
+        - **Frost (Pala):** Occurs in the coldest areas (like Mainpat) when dew freezes on surfaces due to temperatures dropping near or below 0°C. (Note: This is frost, not snowfall).
             
-        - **Fossil-less (जीवाश्म रहित)** due to intense heat during formation.
+        - **October Heat:** A slight increase in night temperatures might be felt in October as the monsoon withdraws and skies clear, while the land still retains some heat, though not as pronounced as in North India.
             
-        - Foundation rocks for later formations.
+        - **Western Disturbances** (Late Jan/Feb).
             
-        - Often metamorphosed into Gneiss and Schist.
-            
-    - **Minerals:** Granite, Gneiss, Schist. Potential source for Feldspar, Quartz, Mica (implied from Granite/Gneiss).
-        
-    - **Distribution:**
-        
-        - Largest coverage: Approximately **50%** of Chhattisgarh.
-            
-        - Found in almost all divisions, decreasing northwards. Abundant in Bastar division.
-            
-        - Forms the basement of the Chhattisgarh Plain (esp. marginal highlands - सीमांत उच्च भूमि).
-            
-        - Dandakaranya Plateau (Kanker, Kondagaon, Narayanpur, Bijapur, Dantewada).
-            
-        - Part regions (Jashpur, Surguja, Balrampur).
-            
-        - **Note:** Bailadila hills are considered the most ancient rocks in Chhattisgarh.
-            
-2. **Dharwar Group (धारवाड़ शैल समूह)**
-    
-    - **Age:** Pre-Cambrian (formed after Archaean).
-        
-    - **Formation:** Formed by the **erosion and sedimentation (अपर्दन, अपक्षय)** of Archaean rocks. Considered the first metamorphosed sedimentary rocks.
-        
-    - **Characteristics:**
-        
-        - Highly metamorphosed sedimentary rocks.
-            
-        - **Fossil-less (जीवाश्म रहित)**.
-            
-        - Economically very important - **richest in metallic minerals**.
-            
-        - Named after the Dharwar district in Karnataka.
-            
-        - Hard rocks, generally not suitable for agriculture.
-            
-    - **Minerals:** **Iron Ore (लौह अयस्क - Hematite)**, Manganese, **Tin (टिन)**, **Corundum (कोरंडम)**, Quartzite, Slate.
-        
-    - **Distribution:**
-        
-        - Found in patches within Archaean areas.
-            
-        - Roughly estimated **~15%** within the 50% Archaean area.
-            
-        - **Three main series in Chhattisgarh:**
-            
-            - **Chilpi Ghat Series:** Kabirdham, Balaghat border area (Durg division).
-                
-            - **Sonakhan Series:** Balodabazar area (Raipur division). Mentioned pink dykes here.
-                
-            - **Iron Ore Series (Bailadila Series):** Bastar division (Dantewada - Bailadila, Bastar, Kanker - Rowghat, Narayanpur, Mohla-Manpur). Also found in Durg (Dalli-Rajhara).
-                
-        - Minor occurrences in Wadrafnagar (Balrampur).
-            
-3. **Cuddapah Group (कड़प्पा शैल समूह)**
-    
-    - **Age:** Proterozoic (Purana group).
-        
-    - **Formation:** Formed by the **erosion and deposition of Dharwar and Archaean rocks**. Largely unmetamorphosed sedimentary rocks.
-        
-    - **Characteristics:**
-        
-        - Sedimentary, layered (परतदार).
-            
-        - Generally considered **Fossil-less (जीवाश्म का अभाव)**.
-            
-        - Named after the Cuddapah district in Andhra Pradesh.
-            
-        - Suitable for agriculture.
-            
-    - **Minerals:** **Limestone (चूना पत्थर - Cement Grade)**, **Dolomite (डोलोमाइट)**, Shale, Sandstone.
-        
-    - **Distribution:**
-        
-        - Second largest coverage: Approximately **25-30%** of Chhattisgarh.
-            
-        - Dominates the **Chhattisgarh Plains (मध्य छत्तीसगढ़)** - Raipur, Durg, Bilaspur divisions (Mahanadi Basin).
-            
-        - Also found in Eastern Bastar and Western Bijapur.
-            
-        - Sometimes divided into:
-            
-            - **Lower Cuddapah:** Raipur & Durg Divisions.
-                
-            - **Upper Cuddapah:** Bilaspur Division (Raigarh, Sarangarh plains).
-                
-4. **Vindhyan Group (विंध्यन शैल समूह)**
-    
-    - **Age:** Proterozoic (Purana group, younger than Cuddapah).
-        
-    - **Formation:** Deposition after the Cuddapah rocks.
-        
-    - **Characteristics:**
-        
-        - Sedimentary rocks.
-            
-        - May contain **micro-fossils (जीवाश्म के प्रमाण मिले हैं)**.
-            
-        - Named after the Vindhyachal mountains.
-            
-    - **Minerals:** Limestone, Sandstone (often used as building material).
-        
-    - **Distribution:**
-        
-        - Very limited extent (estimated **~0.5%**).
-            
-        - Found overlying Cuddapah rocks in some areas.
-            
-        - Near Raigarh town, Khairagarh, Gunderdehi (Balod), NW Bastar region (minor patches in Kanker, Kondagaon, Jagdalpur).
-            
-        - Raipur series limestone is sometimes considered Lower Vindhyan.
-            
-5. **Gondwana Group (गोंडवाना शैल समूह)**
-    
-    - **Age:** Upper Carboniferous to Jurassic period.
-        
-    - **Formation:** Sediments deposited in large river valleys or rift basins, including vast amounts of plant debris.
-        
-    - **Characteristics:**
-        
-        - Sedimentary rocks (sandstones, shales, clays).
-            
-        - **Rich in Fossils (जीवाश्म)**, especially plant fossils.
-            
-        - Most important source of **Coal** in India.
-            
-        - Named after the Gond tribe/region.
-            
-    - **Minerals:** **Coal (कोयला)**, Sandstone, Shale, Fireclay.
-        
-    - **Distribution:**
-        
-        - Covers approximately **17%** of Chhattisgarh.
-            
-        - Mainly in Northern Chhattisgarh: **Surguja Basin / Baghelkhand Plateau** (Koriya, Manendragarh-Chirmiri-Bharatpur, Surajpur, Surguja, Balrampur, Korba, Raigarh).
-            
-        - Found along river valleys (e.g., Hasdeo, Mand).
-            
-        - Divided into:
-            
-            - **Lower Gondwana:** South of Kark Rekha (approx), includes major coalfields (Korba, Raigarh).
-                
-            - **Upper Gondwana:** North of Kark Rekha (approx), (Manendragarh, Baikunthpur, Surajpur area).
-                
-        - **Note:** Middle Gondwana is largely absent in Chhattisgarh.
-            
-6. **Deccan Trap (दक्कन ट्रैप)**
-    
-    - **Age:** Late Cretaceous to Early Eocene (Mesozoic Era).
-        
-    - **Formation:** Formed by massive **fissure volcanic eruptions**, where highly fluid basaltic lava spread over large areas. Cooled in layers or "traps".
-        
-    - **Characteristics:**
-        
-        - Igneous rocks, primarily **Basalt**.
-            
-        - Forms plateau or step-like topography ('trap' means stair).
-            
-    - **Minerals:** **Bauxite (बॉक्साइट)** (formed from weathering of basalt), Laterite.
-        
-    - **Distribution:**
-        
-        - Limited extent (estimated **~2-2.5%**).
-            
-        - Mainly in the **Part regions (पाट प्रदेश)** of Eastern Chhattisgarh (Jashpur, Surguja, Balrampur - Samri-Kusmi).
-            
-        - Also found on the eastern edge of the **Maikal Range** (Kabirdham, Pendra-Lora plateau).
-            
-        - Weathered tops form Laterite/Lameta beds.
+        - **Post-Monsoon Cyclones** (Oct/Nov).
             
 
-**V. Summary of Distribution and Coverage**
+**4. Climatic Zones/Distribution**
 
-|   |   |   |   |
-|---|---|---|---|
-|Rock Group|Approx. Percentage|Key Distribution Areas|Key Minerals|
-|**Archaean**|**~50%**|Entire state basement, esp. South (Bastar), CG Plain margins, Part regions|Granite, Gneiss (Base Metals)|
-|**Cuddapah**|**~25-30%**|Central CG Plains (Mahanadi Basin), Eastern Bastar, Western Bijapur|Limestone, Dolomite|
-|**Gondwana**|**~17%**|Northern CG (Surguja Basin, Baghelkhand Plateau - Hasdeo, Mand valleys)|Coal|
-|**Dharwar**|(~3-5% overall)|Patches within Archaean: Bailadila, Rowghat, Dalli-Rajhara, Chilpi, Sonakhan|Iron Ore, Tin, Corundum|
-|**Deccan Trap**|**~2-2.5%**|Part Regions (Jashpur-Samri), Eastern Maikal Range (Kabirdham, Pendra)|Bauxite|
-|**Vindhyan**|**~0.5%**|Very limited patches overlying Cuddapah (Raigarh area, NW Bastar margin, Khairagarh)|Limestone, Sandstone (Building)|
+**(A) Temperature Distribution Zones (Based on Annual Average Temperature)**
 
-**(Note:** Dharwar percentage is tricky; it's within the 50% Archaean. The ~15% mentioned might refer to its proportion within Archaean areas, not of the total state area. Overall state percentage is lower).
+- **High Temperature Zone (> 27°C):** Raigarh, Janjgir-Champa, Sakti region.
+    
+- **Mid/Moderate Temperature Zone (25°C - 27°C):** Eastern Baghelkhand plateau, Hasdeo basin, Southern parts of Jashpur (Pathalgaon area), Bilaspur plains.
+    
+- **Low Temperature Zone (23°C - 25°C):** **Majority of Chhattisgarh falls in this zone.** Includes most remaining areas not listed elsewhere (parts of central plains, Mahanadi basin, parts of Bastar).
+    
+- **Least/Lowest Temperature Zone (< 23°C):** Jashpur Nagar, Mainpat plateau, Pendra-Gorella-Marwahi region (highland areas).
+    
 
-**VI. Key Takeaways**
+**(B) Rainfall Distribution Zones (Based on Annual Average Rainfall in mm)**
 
-- Chhattisgarh has a diverse geological history spanning from the oldest Archaean rocks to the relatively younger Deccan Traps.
+- **Very High Rainfall Zone (> 1500 mm / > 150 cm):**
     
-- Archaean rocks form the foundation and cover the largest area.
+    - Abujhmad Hills (Dandakaranya) - Highest rainfall area.
+        
+    - Eastern Jashpur region (Jashpur Nagar area).
+        
+    - Raigarh Basin.
+        
+    - These regions often receive the monsoon earliest.
+        
+- **High Rainfall Zone (1400 mm - 1500 mm):**
     
-- Dharwar rocks, though limited in extent, are the most important for metallic minerals (Iron, Tin).
+    - Adjacent areas to the Very High zones (e.g., North-eastern & southern parts of Abujhmad).
+        
+    - Ib valley, Western Jashpur.
+        
+    - Mand valley (Raigarh).
+        
+    - Raipur district.
+        
+    - Southern Hasdeo Valley.
+        
+- **Moderate Rainfall Zone (1300 mm - 1400 mm):**
     
-- Cuddapah rocks dominate the central plains and are crucial for Limestone (cement industry).
+    - Northern parts of Eastern Baghelkhand (Deogarh hills).
+        
+    - Parts of Southern Hasdeo valley.
+        
+    - Mahasamund, Gariaband districts.
+        
+    - Rajnandgaon district.
+        
+- **Low Rainfall Zone (< 1300 mm):**
     
-- Gondwana rocks in the north are the primary source of Coal.
+    - **Maikal Range** region (Eastern slopes) - experiences **rain shadow effect**.
+        
+    - **Kawardha district** (lowest rainfall district).
+        
+    - Mahanadi-Shivnath Doab region.
+        
+    - Central parts of the Mahanadi Plain.
+        
+
+**5. Other Key Points**
+
+- **Agro-Climatic Zones:** Chhattisgarh is divided into three main agro-climatic zones based on climate, soil, and agricultural practices:
     
-- Deccan Traps in the Part regions and Maikal edge are associated with Bauxite.
+    1. Northern Hills Zone
+        
+    2. Chhattisgarh Plains Zone
+        
+    3. Bastar Plateau Zone
+        
+- **Wettest District:** Jashpur
     
-- Understanding the geological structure is fundamental to understanding mineral distribution, soil types, and topography of Chhattisgarh.
+- **Driest District:** Kawardha
+    
+- **Wettest Place:** Abujhmad
+    
+- **Coldest Place:** Mainpat
+    
+- **Hottest Place:** Janjgir-Champa (often records highest max temps)

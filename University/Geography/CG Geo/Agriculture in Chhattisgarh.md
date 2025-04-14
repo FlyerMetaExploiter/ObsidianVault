@@ -8,14 +8,6 @@
     
 - Data Source: Emphasis on using the **Chhattisgarh Economic Survey** for accurate data, especially regarding production, rankings, and scheme details. Data remains relevant even with government changes.
     
-- Exam Focus (Prelims): Questions often focus on:
-    
-    - District-wise production rankings of crops.
-        
-    - Arranging crops by production (maximum to minimum).
-        
-    - Data-oriented facts from the Economic Survey.
-        
 
 **II. Characteristics & Challenges of Chhattisgarh Agriculture**
 

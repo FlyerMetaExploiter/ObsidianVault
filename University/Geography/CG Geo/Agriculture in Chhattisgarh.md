@@ -1,15 +1,8 @@
 
 
 **I. Introduction & Context**
-
-- Topic: Economic Geography of Chhattisgarh, specifically focusing on Agriculture.
-    
-- Importance: Agriculture is a critical sector for Chhattisgarh's economy and population.
-    
-- Data Source: Emphasis on using the **Chhattisgarh Economic Survey** for accurate data, especially regarding production, rankings, and scheme details. Data remains relevant even with government changes.
-    
-
-**II. Characteristics & Challenges of Chhattisgarh Agriculture**
+-
+** Characteristics & Challenges of Chhattisgarh Agriculture**
 
 - **High Dependence:** ~80% of the population engaged in agriculture & allied activities (~40.1 Lakh farmer families). This creates pressure on the land.
     
@@ -484,49 +477,6 @@
 - **Poultry (Kukkut Palan)**
     
 - **Sericulture (Resham / Kosa Utpadan):** Covered under Plantation/Fibre Crops.
-    
-
-**XI. Economic Survey References (Chapter 7: Agriculture & Allied Services - Key Sections to Read)**
-
-- **Page 96:** 7.6 PM Krishi Sinchai Yojana
-    
-- **Page 97:** PM Fasal Bima Yojana
-    
-- **Page 101:** 7.11 Agriculture Marketing (Mandis)
-    
-- **Page 101:** 7.11.3 National Agriculture Market (eNAM) - Mandis included in phases.
-    
-- **Page 102:** 7.11.4 Soil Testing Labs (in Mandis), 7.11.5 (Agri Software - skip).
-    
-- **Page 103:** 7.11.7 (Gauseva Aayog), 7.11.8 (Fruit/Veg Mandis), 7.11.12 (Haat Bazaar).
-    
-- **Page 104:** CG Agri Produce Mandi Act, 2020.
-    
-- **Page 108 (Table 7.13):** Horticulture Crop Comparison (Area/Production - already covered in lecture).
-    
-- **Page 113:** 7.21 Water Resources (Start)
-    
-- **Page 114:** Major Projects (Arpa Bhaisajhar, Rajiv Samoda Nida), PMKSY details, Micro Irrigation.
-    
-- **Page 115:** Hasdeo Bango, Kelo Project details.
-    
-- **Page 116:** Shivrinarayan Barrage.
-    
-- **Page 118:** Sidh Baba Jalashay.
-    
-- **Page 119:** 7.26.1 Livestock Development (Start).
-    
-- **Page 120-121:** 7.26.2, 7.26.3, 7.26.5 (Breeding centers, schemes - check tables/lists).
-    
-- **Page 126:** 7.26.13 Foot & Mouth Disease Control Program.
-    
-- **Page 130:** 7.27 Fisheries (Start), Table 7.18 (Fish Production data).
-    
-- **Page 131:** Fisheries Cooperatives.
-    
-- **Page 137 (Table):** Land Use Classification (Very Important - Forest area, Non-agri land, Barren, Fallow, Net Sown Area etc.).
-    
-- **Page 143-144:** Irrigation Data (District-wise % irrigated area - check top/bottom districts).
     
 
 **(Note: Always verify data like production ranks and specific percentages with the latest available Economic Survey, as these can change annually.)**
